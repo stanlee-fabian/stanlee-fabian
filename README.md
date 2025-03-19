@@ -2,7 +2,7 @@
 
 # 😎 About Me
 🌱 I’m currently immersed in learning Information Technology Services at SAIT<br>
-🤝 I’m looking to collaborate on real-world challenges that posit real changes<br>
+🤝 I’m looking to collaborate on real-world challenges that posit real change and solutions<br>
 
 # 💻 Tech Stack
 ## 🎛️ Operating Systems
