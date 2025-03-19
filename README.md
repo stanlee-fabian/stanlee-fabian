@@ -1,8 +1,9 @@
 <img src="Black Technology LinkedIn Banner.png" alt="GitHub Banner" width="100%" />
 
-# 😎 About Me
-🌱 I’m currently immersed in learning Information Technology Services at SAIT<br>
-🤝 I’m looking to collaborate on real-world challenges that posit real change and solutions<br>
+# 😎 Get To Know Me! 
+🎓 I’m currently immersed in learning Information Technology Services at SAIT<br>
+🤝 I’m looking to collaborate on real-world challenges that posit real change, solutions and social impact<br>
+🌱 My ultimate mission is to connect technicality to commonality
 
 # 💻 Tech Stack
 ## 🎛️ Operating Systems
